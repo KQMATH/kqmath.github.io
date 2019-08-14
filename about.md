@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-<img src="{{ '/assets/images/kqm.svg' | relative_url }}" alt="KQM logo" width="50%" height="auto" align="right">
+<img src="{{ '/assets/images/KQM.svg' | relative_url }}" alt="KQM logo" width="50%" height="auto" align="right">
 
 # Stimulans til diskusjon og samarbeidslæring i matematikk
 
