@@ -1,0 +1,92 @@
+# Site settings
+title: KQMATH
+description: > # this means to ignore newlines until "logo:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+logo : https://avatars2.githubusercontent.com/u/28649638?s=200&v=4
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Author settings
+author: KQMATH
+email: your-email@domain.com
+author_link: https://github.com/KQMATH
+author_img: https://avatars2.githubusercontent.com/u/28649638?s=200&v=4
+about_author: Moodle Team at NTNU Dept of ICT and Natural Sciences
+
+# Front Matter defaults
+defaults:
+  -
+    scope:
+      path: "docs/kqmath"
+    values:
+      layout: "doc"
+      repo: "kqmath"
+  -
+    scope:
+      path: "docs/capquiz"
+    values:
+      layout: "doc"
+      repo: "capquiz"
+  -
+    scope:
+      path: "docs/jazzquiz"
+    values:
+      layout: "doc"
+      repo: "jazzquiz"
+  -
+    scope:
+      path: "docs/shortmath"
+    values:
+      layout: "doc"
+      repo: "shortmath"
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    github: KQMATH
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - docs.md
+  - docs/kqmath/index.html
+  - posts.md
+  - about.md
+
+# Build settings
+remote_theme: andstor/jekyll-theme-paper
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jemoji

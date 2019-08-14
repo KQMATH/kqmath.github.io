@@ -1,0 +1,34 @@
+capquiz:
+  name: CAPQuiz
+  repo_name: moodle-mod_capquiz
+  type: moodleplugin
+  owner: KQMATH
+  url: https://github.com/KQMATH/moodle-mod_capquiz
+  wiki_url: https://github.com/KQMATH/moodle-mod_capquiz/wiki
+  icon: https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2155/capquiz_icon.png
+
+jazzquiz:
+  name: JazzQuiz
+  repo_name: moodle-mod_jazzquiz
+  type: moodleplugin
+  owner: KQMATH
+  url: https://github.com/KQMATH/moodle-mod_jazzquiz
+  wiki_url: https://github.com/KQMATH/moodle-mod_jazzquiz/wiki
+  icon: https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1995/jq.png
+
+shortmath:
+  name: ShortMath
+  repo_name: moodle-qtype_shortmath
+  type: moodleplugin
+  owner: KQMATH
+  url: https://github.com/KQMATH/moodle-qtype_shortmath
+  wiki_url: https://github.com/KQMATH/moodle-qtype_shortmath/wiki
+  icon: https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2153/math-sqrt.png
+
+kqmath:
+  name: KQMATH
+  repo_name: kqmath.github.io
+  type: wiki
+  owner: KQMATH
+  url: https://github.com/KQMATH/kqmath.github.io
+  wiki_url: https://github.com/KQMATH/kqmath.github.io/wiki

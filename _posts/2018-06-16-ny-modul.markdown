@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Ny modul"
+date:   2018-06-16 09:36:26 +0200
+author: Hans Georg
+categories: mathexp
+---
+Den fyrste prototypen til ein ny modul som skal gjera det enklare for studentane å svara i form av matematiske uttrykk, er klar no i juni.
+
+Modulen har fått arbeidsnamnet mathexp, og kan brukast saman med eksisterande spørsmålstypar for å gje studentane ein formeleditor (WYSIWYG - What you see is what you get) i staden for tekstfeltet. I JazzQuiz kan me bruka mathexp saman med fritekstspørsmål. Svarene som kjem inn frå studentane er då koda for vising, slik at dei vert vist pent som matematiske uttrykk i rapportane. Dette skal me testa i undervising til hausten, før modulen (vonleg) vert publisert.
+
+Automatisk retting bruker me normalt ikkje saman med JazzQuiz, so dette har me ikkje prioritert. Det er likevel mogleg å implementera autoretting for spørsmålsforfattarar som kjenner LaTeX. Dersom ein bruker RegExp-spørsmål i staden for den vanlege friteksttypen, kan ein autoretta basert på regulære uttrykk (dvs. avansert bruk av jokerteikn). Dette er ikkje like fleksibelt som STACK, men enklare. Autoretting av matematiske uttrykk er noko som me vil arbeida vidare med i andre prosjekt.

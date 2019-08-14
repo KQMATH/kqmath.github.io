@@ -1,0 +1,7 @@
+wiki:
+  name: KQMATH wiki
+  description: The KQMATH wiki, containing everything from basic setup, to user guides, customisation and development
+
+moodleplugin:
+  name: Moodle plugins
+  description: Chose a plugin that you need help with or search above
