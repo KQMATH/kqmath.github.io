@@ -13,6 +13,7 @@ jobs:
       env:
         DST_BRANCH: master
         DST_OWNER: KQMATH
+        DST_REPO_NAME: kqmath.github.io
         DST_PATH: /docs/kqmath/
         GH_PAT: ${{ secrets.GH_PAT }}
         SRC_BRANCH: master
