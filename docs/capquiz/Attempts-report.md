@@ -66,3 +66,6 @@ One may reset all table preferences by clicking the link `Reset table preference
 It is possible to export/download the attempts report. Just select one of the file types in the dropdown menu located at the top of the table and click on the `download` button.
 
 The file types available depends on the installed set of Moodle [Data formats](https://docs.moodle.org/dev/Data_formats). Moodle ships with a set of Data formats natively, including CSV, Excel, ODS, JSON, and HTML. The report may be exported/downloaded in all the installed Moodle Data formats.
+
+## Data availability
+If the Moolde user is deleted, no attempts report data linked to that user will be available. Be sure to [export](#exporting-the-report) the data if you want to store the statistics.
