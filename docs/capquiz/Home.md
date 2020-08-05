@@ -1,8 +1,8 @@
 # CAPQuiz
 Computer adaptive practice quiz module for Moodle.
 * [Project README](https://github.com/KQMATH/moodle-mod_capquiz#readme)
-* [History](https://github.com/KQMATH/moodle-mod_capquiz/wiki/History)
-* [Credits](https://github.com/KQMATH/moodle-mod_capquiz/wiki/Credits)
+* [History](History)
+* [Credits](Credits)
 
 ## Where to start ##
 
@@ -13,6 +13,8 @@ Welcome to the official user documentation for the [CAPQuiz activity module](htt
   2. [Publishing a quiz](Publishing-a-quiz)
   3. [Accessing reports](Accessing-reports)
   4. [Grading](Grading)
+  5. [Question Feedback](Question-Feedback)
+  6. Moodle activities can be accessed via any LMS using [LTI](LTI)
 * **Students**
 * **Administrators**
   1. [Installation instructions](Installation-instructions#installation-instructions)
