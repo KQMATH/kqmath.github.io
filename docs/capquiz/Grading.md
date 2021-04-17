@@ -1,6 +1,6 @@
 # Grading
 
-CAPQuiz supports grading. Internally the students are assigned a rating, using the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) which is known from chess. 
+CAPQuiz supports grading. Internally the students are assigned a rating, using the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) which is known from chess. Note that the Elo system is equivalent to the [Rasch model](https://en.wikipedia.org/wiki/Rasch_model) but uses different scaling factors.
 
 ## Grading
 
@@ -14,4 +14,9 @@ In the class list, within CAPQuiz, the instructor can see both the grade (number
 
 # Rating
 
-Both students and questions are assigned a rating, representing aptitude and difficulty respectively.  The starting rating is typically 1200. Each time the student answers a question, their rating is updated.  If they answer correctly, their rating increases by \[K*(1-1/(1+10^(Rq-Rs)/400\]
+Both students and questions are assigned a rating, representing aptitude and difficulty respectively.  The starting rating is typically 1200. Each time the student answers a question, their rating is updated.  If they answer correctly, their rating increases by K*(1-1/(1+10^(Rq-Rs)/400, where Rq and Rs are the question and student ratings respectively, and K is the student k-factor which can be set in the *rating system* tab. If the student answers incorrectly, their rating decreases by K/(1+10^(Rq-Rs)/400.
+
+Question ratings are updated in a similar way, but not based on their performance against a question.  Instead two consecutive questions answered by the same student are compared.  If one is answered correctly and the other incorrectly, this constitues a match where the incorrectly answered question `wins´.  Rating updates for questions are based on these matches.
+
+# Question selection strategy
+
