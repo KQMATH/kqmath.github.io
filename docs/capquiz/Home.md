@@ -20,6 +20,7 @@ Welcome to the official user documentation for the [CAPQuiz activity module](htt
   1. [Installation instructions](Installation-instructions#installation-instructions)
      1. [Reports](Reports-installation-instructions)
   2. [Requirements](Requirements)
+  3. [Rogue Moodle Server](Rogue-Moodle-Server)
 * **[Developers](Developer)**
   1. [Developer docs](Developer)
   2. [Sub-plugins](Sub-plugins)
