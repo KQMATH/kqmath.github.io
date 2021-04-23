@@ -1,12 +1,7 @@
 # Supported languages
 
-CAPQuiz has been translated into the following languages:
-* English
-* Norwegian (Bokmål)
-* Spanish (Mexico)
-* Português
+CAPQuiz has been translated into several languages, a full list of [translations](https://moodle.org/plugins/mod_capquiz/translations) is automatically maintained by the Moodle Plugin Directory.
 
-Details of who translated CAPQuiz are given under [credits](https://github.com/KQMATH/moodle-mod_capquiz/wiki/Credits#translation-of-the-capquiz-project). If you need these languages please contact the developers for more details of the status of this work.
 
 # How to translate CAPQuiz
 
