@@ -21,6 +21,7 @@ CAPQuiz is released in many languages, using Moodle's AMOS language system. Deta
   * NO: Norwegian (Bokmål), by [André Storhaug](https://github.com/andstor).
   * ES_MX: Spanish (Mexico), by [Germán Valero Elizondo](https://github.com/germanvaleroelizondo).
   * PT: Português, by [Dinis Medeiros](https://github.com/dinism).
+  * DE: German by Bernd Kapori
 
 # User list
 
