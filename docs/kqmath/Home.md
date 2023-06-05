@@ -11,6 +11,11 @@ We have developed a number of Moodle plugins:
 * [CAPQuiz activity module](https://moodle.org/plugins/mod_capquiz), view [source](https://github.com/KQMATH/moodle-mod_capquiz) or [wiki](https://github.com/KQMATH/moodle-mod_capquiz/wiki).
 * [ShortMath question type](https://moodle.org/plugins/qtype_shortmath), view [source](https://github.com/KQMATH/moodle-qtype_shortmath) or [wiki](https://github.com/KQMATH/moodle-qtype_shortmath/wiki).
 * [JazzQuiz activity module](https://moodle.org/plugins/mod_jazzquiz), view [source](https://github.com/KQMATH/moodle-mod_jazzquiz) or [wiki](https://github.com/KQMATH/moodle-mod_jazzquiz/wiki).
+* [QTracker local module](https://moodle.org/plugins/local_qtracker),
+  view [source](https://github.com/KQMATH/moodle-local_qtracker)
+  and the associated
+    * [QTracker local module](https://moodle.org/plugins/block_qtracker)
+      view [source](https://github.com/KQMATH/moodle-block_qtracker)
 
 We also contribute to other Moodle plugins:
 * [STACK question type](https://moodle.org/plugins/qtype_stack), view [source](https://github.com/KQMATH/moodle-qtype_stack).
