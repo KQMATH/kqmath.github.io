@@ -27,15 +27,22 @@ Go to the "Edit settings" for the Quiz activity. Then, under "Appearance", set t
 
 # Where to start 
 
+Welcome to the official user documentation for the [QTracker local module](https://moodle.org/plugins/local_qtracker).
+
+* **Teachers**
+  1. [Accessing question issue tracker](Accessing-question-issue-tracker)
+  2. [Manually creating a new issue](Manually-creating-a-new-issue)
+* **Students**
+  1. [Creating a question issue](Creating-a-issue)
 * **Administrators**
   * [Installation instructions](Installation-instructions#installation-instructions)
-
-For further documentation of QTracker, see the main [QTracker local module](https://moodle.org/plugins/local_qtracker).
-
+* **[Developers](Developer)**
+  1. [Developer docs](Developer)
+  2. [Languages](Languages)
 
 # Contributors to the CAPQuiz project
 
 **Project lead**: [Hans Georg Schaathun](http://www.hg.schaathun.net) of the Norwegian University of Science and Technology. Contact at: <hasc@ntnu.no>.
 
 **Initial Development**:
-* [André Storhaug](https://github.com/andstor) of the Norwegian University of Science and Technology. Contact at: <andr3.storhaug@gmail.com>.
+[André Storhaug](https://github.com/andstor) of the Norwegian University of Science and Technology. Contact at: <andr3.storhaug@gmail.com>.
