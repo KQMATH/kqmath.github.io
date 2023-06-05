@@ -27,7 +27,9 @@ Go to the "Edit settings" for the Quiz activity. Then, under "Appearance", set t
 
 # Where to start 
 
-Welcome to the official user documentation for the [QTracker local module](https://moodle.org/plugins/local_qtracker).
+Welcome to the official user documentation for QTracker,
+including [QTracker local module](https://moodle.org/plugins/local_qtracker)
+and [QTracker block module](https://moodle.org/plugins/block_qtracker).
 
 * **Teachers**
   1. [Accessing question issue tracker](Accessing-question-issue-tracker)
