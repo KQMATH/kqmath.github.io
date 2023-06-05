@@ -31,7 +31,10 @@ The following libraries have been developed for use in the ShortMath plugin abov
 
 ## Documentation
 
-Moodle is a free and open-source [learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS) written in PHP and distributed under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License).
+Apologies for the rudimentary documentation.  This has been hacked together based
+on experience running a rogue moodle server as joint teacher and developer.
+Some things will have to be done differently when a production system is set up
+for wider use.
 
 * User documentation:
     * [Add an activity to a Moodle course](Add-an-activity-to-a-Moodle-course)
