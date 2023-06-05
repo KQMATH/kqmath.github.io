@@ -17,6 +17,22 @@ Two plugins are required
 + [The block plugin](https://moodle.org/plugins/block_qtracker)
   which provides the student user interface.
 
+# FAQ
+
+## Why is the QTracker block not showing up in my Quiz activity?  
+
+All Quiz activity modules defaults to hide all blocks during an attempt.
+This must be changed in order for the QTracker block to show up for students.
+Go to the "Edit settings" for the Quiz activity. Then, under "Appearance", set the "Show blocks during quiz attempts" to `Yes`.
+
+# Where to start 
+
+* **Administrators**
+  * [Installation instructions](Installation-instructions#installation-instructions)
+
+For further documentation of QTracker, see the main [QTracker local module](https://moodle.org/plugins/local_qtracker).
+
+
 # Contributors to the CAPQuiz project
 
 **Project lead**: [Hans Georg Schaathun](http://www.hg.schaathun.net) of the Norwegian University of Science and Technology. Contact at: <hasc@ntnu.no>.
