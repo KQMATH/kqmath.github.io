@@ -25,6 +25,14 @@ shortmath:
   wiki_url: https://github.com/KQMATH/moodle-qtype_shortmath/wiki
   icon: https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2153/math-sqrt.png
 
+qtracker:
+  name: QTracker
+  repo_name: moodle-local_qtracker
+  type: moodleplugin
+  owner: KQMATH
+  url: https://github.com/KQMATH/moodle-local_qtracker
+  icon: https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2761/qtracker_icon.png
+
 kqmath:
   name: KQMATH
   repo_name: kqmath.github.io
