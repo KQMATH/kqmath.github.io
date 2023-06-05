@@ -1,4 +1,5 @@
 # Learning Tools Interoperability (LTI)
+
 [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI) is a standard created by the [IMS Global Learning Consortium](https://www.imsglobal.org) that links content and resources to learning platforms.
 
 Its primary purpose is to connect learning systems such as a [learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS) with external service tools in a standard way across learning systems. The standard describes the connecting system as an LTI Tool Consumer and the connected tool as an LTI Tool Provider.

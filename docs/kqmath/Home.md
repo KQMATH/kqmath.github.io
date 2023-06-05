@@ -31,6 +31,27 @@ The following libraries have been developed for use in the ShortMath plugin abov
 
 ## Documentation
 
-* [User documentation](User-documentation)
-* [Administrator documentation](Administrator-documentation)
-* [Developer documentation](Developer-documentation)
+Moodle is a free and open-source [learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS) written in PHP and distributed under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License).
+
+* User documentation:
+    * [Add an activity to a Moodle course](Add-an-activity-to-a-Moodle-course)
+* [Developer documentation](Developer-documentation) (Release Policy)
+
+## Moodle Activities in other Learning Management Systems
+
+At NTNU in Ålesund, we have used Moodle activities within the university's official
+LMS, BlackBoard.  
+The advantage of this is that we can use BlackBoard's user management.
+The students have everything in one place, and the teacher does not have to manage
+class lists.
+It is also possible to feed assessment results in moodle back into BlackBoard.
+
+* [Learning Tools Interoperability](Learning-Tools-Interoperability) (LTI).
+  1. [Moodle as an LTI Tool provider](Learning-Tools-Interoperability#moodle-as-an-lti-tool-provider).
+  2. [Moodle as an LTI Tool consumer](Learning-Tools-Interoperability#moodle-as-an-lti-tool-consumer).
+* [Add Moodle integration in Blackboard course](Add-Moodle-integration-in-Blackboard-course)
+* [Setup CAPQuiz for a Blackboard course](Setup-CAPQuiz-for-a-Blackboard-course)
+
+
+Moodle is a free and open-source [learning management system](https://en.wikipedia.org/wiki/Learning_management_system) (LMS) written in PHP and distributed under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License).
+
