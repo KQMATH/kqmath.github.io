@@ -17,27 +17,17 @@ Two plugins are required
 + [The block plugin](https://moodle.org/plugins/block_qtracker)
   which provides the student user interface.
 
-# FAQ
-
-## Why is the QTracker block not showing up in my Quiz activity?  
-
-All Quiz activity modules defaults to hide all blocks during an attempt.
-This must be changed in order for the QTracker block to show up for students.
-Go to the "Edit settings" for the Quiz activity. Then, under "Appearance", set the "Show blocks during quiz attempts" to `Yes`.
-
 # Where to start 
 
 Welcome to the official user documentation for QTracker,
 including [QTracker local module](https://moodle.org/plugins/local_qtracker)
 and [QTracker block module](https://moodle.org/plugins/block_qtracker).
 
-* **Teachers**
-  1. [Accessing question issue tracker](Accessing-question-issue-tracker)
-  2. [Manually creating a new issue](Manually-creating-a-new-issue)
-* **Students**
-  1. [Creating a question issue](Creating-a-issue)
-* **Administrators**
-  * [Installation instructions](Installation-instructions#installation-instructions)
+* Using QTracker as a [Teacher](Teacher)
+* [Creating a question issue](Creating-a-issue)
+  as a **Student**
+* [Installang QTracker](Installation-instructions#installation-instructions)
+  as an **Administrator**
 * **[Developers](Developer)**
   1. [Developer docs](Developer)
   2. [Languages](Languages)
