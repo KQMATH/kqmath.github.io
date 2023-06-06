@@ -15,10 +15,10 @@ To make it appear for the students, we also need to change the settings
 in two places.
 
 1. Make sure Edit mode is enabled and open the cog menu in the block.
-   Choose Configure Question Tracker block $\to$ Where this block appears
-   $\to$ Display on page types $\to$ Any quiz module page.
-2. In the Quiz Settings find Appearance $\to$ Show more $\to$
-   Show blocks during quiz attempts $\to$ Yes.
+   Choose Configure Question Tracker block $$\to$$ Where this block appears
+   $$\to$$ Display on page types $$\to$$ Any quiz module page.
+2. In the Quiz Settings find Appearance $$\to$$ Show more $$\to$$
+   Show blocks during quiz attempts $$\to$$ Yes.
 
 ## Accessing question issue tracker through the quiz interface
 
