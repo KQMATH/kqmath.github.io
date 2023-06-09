@@ -15,6 +15,7 @@ Welcome to the official user documentation for the [CAPQuiz activity module](htt
   4. [Grading](Grading)
   5. [Question Feedback](Question-Feedback)
   6. Moodle activities can be accessed via any LMS using [LTI](LTI)
+  5. **PAQ** [Previously Answered Questions](qna2021)
 * **Students**
 * **Administrators**
   1. [Installation instructions](Installation-instructions#installation-instructions)
